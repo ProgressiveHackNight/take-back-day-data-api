@@ -27,9 +27,6 @@ SECRETS = json.loads(secret_file)
 SECRET_KEY = SECRETS['django_key']
 
 
-ALLOWED_HOSTS = []
-
-
 # Application definition
 
 INSTALLED_APPS = [
@@ -52,8 +49,6 @@ MIDDLEWARE = (
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 )
-
-ROOT_URLCONF = 'opioid.urls'
 
 TEMPLATES = [
     {
@@ -112,7 +107,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'America/New_York'
 
 USE_I18N = True
 
