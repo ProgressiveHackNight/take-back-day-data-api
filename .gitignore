@@ -1,0 +1,14 @@
+# Media Files #
+###############
+static/
+media/
+
+# Secret Keys #
+###############
+secret_keys.json
+
+__pycache__/
+**pyc
+
+bak.*
+
