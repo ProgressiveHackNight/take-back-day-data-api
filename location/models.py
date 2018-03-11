@@ -14,7 +14,7 @@ longitude
 
 class Item(models.Model):
 
-    typeChoice
+    #typeChoice
 
     name = models.CharField(max_length=255, blank=True, null=True)
-    type = models.CharField()
+    type = models.CharField(max_length=50, blank=True, null=True)
