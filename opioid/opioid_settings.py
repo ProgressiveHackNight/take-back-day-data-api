@@ -5,7 +5,7 @@ secret_file = open(os.path.join(os.path.dirname(__file__), 'secret_keys.json'), 
 
 SECRETS = json.loads(secret_file)
 # Django Environment Specific Settings
-DEBUG = True
+DEBUG = False
 ALLOWED_HOSTS = ['*']
 DATABASES['default']['NAME'] = 'opioid_db'
 

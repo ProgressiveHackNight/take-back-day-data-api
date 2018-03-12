@@ -4,7 +4,7 @@ from .base_settings import *
 
 # Dev Environment specific settings
 
-DEBUG = True
+DEBUG = False
 ALLOWED_HOSTS = ['*', 'takebackday.infoloom.com']
 
 # Static Files Settings

@@ -1,0 +1,12 @@
+{% load static %}
+<html>
+<head>
+  <title>Home</title>
+  <link href="{% static 'css/takebackday.css' %}" rel="stylesheet" type="text/css" />
+</head>
+<body>
+  <h1>Home</h1>
+  <h5 class="adminlink"><a href="/admin/">Admin</a></h5>
+  <p><a href={% url 'read-dec-data' %}>Read JSON data</a></p>
+</body>
+</html>

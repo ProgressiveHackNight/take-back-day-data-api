@@ -30,7 +30,7 @@ ROOT_URLCONF = 'opioid.dev_urls'
 CORS_ORIGIN_ALLOW_ALL = True
 
 REST_FRAMEWORK['DEFAULT_PERMISSION_CLASSES'] = ['rest_framework.permissions.AllowAny']
-r
+
 LOGGING = {
     'version': 1,
     'disable_existing_loggers': False,
