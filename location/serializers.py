@@ -27,16 +27,16 @@ county
 """
 
 class DecSerializer(serializers.ModelSerializer):
-    location_name = serializers.Field(source='Location')
+    location_name  = serializers.Field(source='Location')
     street_address = serializers.Field(source='Street Address')
-    city = serializers.Field(source='City')
-    zip = serializers.Field(source='Zip')
-    county = serializers.Field(source='County')
-    latitude = serializers.Field(source='Latitude')
-    longitude = serializers.Field(source='Longitude')
-    type = serializers.Field(source='Type')
-    note = serializers.Field(source='Note')
-    website = serializers.Field(source='Website')
+    city           = serializers.Field(source='City')
+    zip            = serializers.Field(source='Zip')
+    county         = serializers.Field(source='County')
+    latitude       = serializers.Field(source='Latitude')
+    longitude      = serializers.Field(source='Longitude')
+    type           = serializers.Field(source='Type')
+    note           = serializers.Field(source='Note')
+    website        = serializers.Field(source='Website')
     class Meta:
         model = Place
         fields = (

@@ -4,8 +4,8 @@ from django.shortcuts import redirect
 from django.conf import settings
 from django.db.utils import IntegrityError
 from rest_framework.response import Response
+from rest_framework import generics
 from .models import Place
-
 
 
 def read_dec_data_json(request):
@@ -66,5 +66,26 @@ def read_dec_data_json(request):
         except IntegrityError:
             # It's already there.
             pass
+
+    return redirect('/admin/location/place/')
+
+def export_places(request):
+
+    OUTFILE = "/vagrant/take-back-day-data-api/output.json"
+
+    places = Place.objects.all()
+    places_as_dict = [
+        {
+            'location_name': p.location_name,
+            'city': p.city,
+            'latitude': p.latitude,
+            'longitude': p.longitude
+        }
+        for p in places]
+
+    print('DEBUG places_as_dict=', places_as_dict)
+
+    with open(OUTFILE, 'w') as f:
+        json.dump(places_as_dict, f, indent=2)
 
     return redirect('/admin/location/place/')

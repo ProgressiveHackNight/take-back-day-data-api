@@ -1,0 +1,2498 @@
+[
+  {
+    "city": "Akron",
+    "longitude": "-78.503293",
+    "location_name": "Newstead Town Hall",
+    "latitude": "43.011966"
+  },
+  {
+    "city": "Akwesasne",
+    "longitude": "-74.69052",
+    "location_name": "Saint Regis Mohawk Tribal Police",
+    "latitude": "44.97844"
+  },
+  {
+    "city": "Albany",
+    "longitude": "-73.772080",
+    "location_name": "Albany Stratton VA Medical Center",
+    "latitude": "42.650837"
+  },
+  {
+    "city": "Albany",
+    "longitude": "-73.760516",
+    "location_name": "Albany Police Department",
+    "latitude": "42.662809"
+  },
+  {
+    "city": "Albion",
+    "longitude": "-78.222176",
+    "location_name": "Orleans County Sheriff's Office",
+    "latitude": "43.239357"
+  },
+  {
+    "city": "Alden",
+    "longitude": "-78.548630",
+    "location_name": "Alden Town Hall",
+    "latitude": "42.939735"
+  },
+  {
+    "city": "Alfred",
+    "longitude": "-77.792570",
+    "location_name": "Alfred State University Police",
+    "latitude": "42.255873"
+  },
+  {
+    "city": "Alfred",
+    "longitude": "-77.790179",
+    "location_name": "Alfred Pharmacy",
+    "latitude": "42.255074"
+  },
+  {
+    "city": "Allaben",
+    "longitude": "-74.370125",
+    "location_name": "Ulster County Sheriff's Department Shandaken Sub-Station",
+    "latitude": "42.116238"
+  },
+  {
+    "city": "Amityville",
+    "longitude": "-73.418703",
+    "location_name": "Amityville Police Department",
+    "latitude": "40.677775"
+  },
+  {
+    "city": "Amsterdam",
+    "longitude": "-74.190451",
+    "location_name": "Amsterdam Police Department",
+    "latitude": "42.938046"
+  },
+  {
+    "city": "Amsterdam",
+    "longitude": "-74.18505",
+    "location_name": "Walgreens",
+    "latitude": "42.95944"
+  },
+  {
+    "city": "Ardsley",
+    "longitude": "-73.84602",
+    "location_name": "Ardsley Police Department",
+    "latitude": "41.01158"
+  },
+  {
+    "city": "Armonk",
+    "longitude": "-73.713200",
+    "location_name": "North Castle Police Department",
+    "latitude": "41.124532"
+  },
+  {
+    "city": "Auburn",
+    "longitude": "-76.56543",
+    "location_name": "Auburn Police Department",
+    "latitude": "42.93345"
+  },
+  {
+    "city": "Auburn",
+    "longitude": "-76.54459",
+    "location_name": "Cayuga County Sheriff's Office",
+    "latitude": "42.97871"
+  },
+  {
+    "city": "Auburn",
+    "longitude": "-76.5497",
+    "location_name": "Walgreens",
+    "latitude": "42.94426"
+  },
+  {
+    "city": "Baldwinsville",
+    "longitude": "-76.333513",
+    "location_name": "Baldwinsville Police Department",
+    "latitude": "43.158836"
+  },
+  {
+    "city": "Ballston Spa",
+    "longitude": "-73.873793",
+    "location_name": "Saratoga County Sheriff's Office",
+    "latitude": "43.020199"
+  },
+  {
+    "city": "Barneveld",
+    "longitude": "-75.185125",
+    "location_name": "Trenton Municipal Building",
+    "latitude": "43.274153"
+  },
+  {
+    "city": "Batavia",
+    "longitude": "-78.19905",
+    "location_name": "Genesee County Sheriff's Office",
+    "latitude": "43.01492"
+  },
+  {
+    "city": "Batavia",
+    "longitude": "-78.18683",
+    "location_name": "New York State Police Troop A Batavia",
+    "latitude": "43.03015"
+  },
+  {
+    "city": "Bath",
+    "longitude": "-77.295342",
+    "location_name": "Steuben County Sheriff's Office",
+    "latitude": "42.349553"
+  },
+  {
+    "city": "Bayshore",
+    "longitude": "-73.241252",
+    "location_name": "Southside Hospital Pharmacy Department",
+    "latitude": "40.726001"
+  },
+  {
+    "city": "Bay Shore",
+    "longitude": "-73.263140",
+    "location_name": "Suffolk County Police Department 3rd Precinct",
+    "latitude": "40.758337"
+  },
+  {
+    "city": "Beacon",
+    "longitude": "-73.978472",
+    "location_name": "Beacon Police Department",
+    "latitude": "41.508031"
+  },
+  {
+    "city": "Bedford",
+    "longitude": "-73.65638",
+    "location_name": "Bedford Police Department",
+    "latitude": "41.17359"
+  },
+  {
+    "city": "Belmont",
+    "longitude": "-78.0096856",
+    "location_name": "Allegany County Sheriff's Department",
+    "latitude": "42.2056254"
+  },
+  {
+    "city": "Bethpage",
+    "longitude": "-73.48112",
+    "location_name": "King Kullen Pharmacy",
+    "latitude": "40.74416"
+  },
+  {
+    "city": "Binghamton",
+    "longitude": "-75.910768",
+    "location_name": "Broome County Office Building",
+    "latitude": "42.096551"
+  },
+  {
+    "city": "Binghamton",
+    "longitude": "-75.91448",
+    "location_name": "The Medicine Shoppe",
+    "latitude": "42.08926"
+  },
+  {
+    "city": "Binghamton",
+    "longitude": "-75.91667",
+    "location_name": "Broome County Sheriff's Department",
+    "latitude": "42.13247"
+  },
+  {
+    "city": "Boonville",
+    "longitude": "-75.316084",
+    "location_name": "Boonville Police Department",
+    "latitude": "43.475414"
+  },
+  {
+    "city": "Brant",
+    "longitude": "-79.015576",
+    "location_name": "Brant Town Hall",
+    "latitude": "42.589197"
+  },
+  {
+    "city": "Brewster",
+    "longitude": "-73.625806",
+    "location_name": "Putnam County Department of Health",
+    "latitude": "41.428596"
+  },
+  {
+    "city": "Briarcliff Manor",
+    "longitude": "-73.82863",
+    "location_name": "Briarcliff Manor Police Department",
+    "latitude": "41.14891"
+  },
+  {
+    "city": "Brockport",
+    "longitude": "-77.939132",
+    "location_name": "Brockport Police Department",
+    "latitude": "43.215785"
+  },
+  {
+    "city": "Bronx",
+    "longitude": "-73.851726",
+    "location_name": "Castle Topp Pharmacy",
+    "latitude": "40.835354"
+  },
+  {
+    "city": "Bronx",
+    "longitude": "-73.9047179",
+    "location_name": "Walgreens",
+    "latitude": "40.8784962"
+  },
+  {
+    "city": "Bronxville",
+    "longitude": "-73.831214",
+    "location_name": "Bronxville Police Department",
+    "latitude": "40.935254"
+  },
+  {
+    "city": "Brooklyn",
+    "longitude": "-73.941636",
+    "location_name": "New York City Police Department 63rd Precinct",
+    "latitude": "40.627946"
+  },
+  {
+    "city": "Brooklyn",
+    "longitude": "-74.003105",
+    "location_name": "New York City Police Department 62nd Precinct",
+    "latitude": "40.602484"
+  },
+  {
+    "city": "Brooklyn",
+    "longitude": "-73.950198",
+    "location_name": "Walgreens",
+    "latitude": "40.6804182"
+  },
+  {
+    "city": "Brooklyn",
+    "longitude": "-73.981993",
+    "location_name": "AIDS Healthcare Foundation (AHF) Pharmacy",
+    "latitude": "40.686088"
+  },
+  {
+    "city": "Brooklyn",
+    "longitude": "-73.97332",
+    "location_name": "Duane Reade",
+    "latitude": "40.6781"
+  },
+  {
+    "city": "Brooklyn",
+    "longitude": "-73.9787",
+    "location_name": "Walgreens",
+    "latitude": "40.64288"
+  },
+  {
+    "city": "Brooklyn",
+    "longitude": "-74.01057",
+    "location_name": "Duane Reade",
+    "latitude": "40.64486"
+  },
+  {
+    "city": "Brooklyn",
+    "longitude": "-74.022707",
+    "location_name": "New York City Police Department 68th Precinct",
+    "latitude": "40.639035"
+  },
+  {
+    "city": "Brooklyn",
+    "longitude": "-73.960490",
+    "location_name": "New York City Police Department 61st Precinct",
+    "latitude": "40.594101"
+  },
+  {
+    "city": "Brooklyn",
+    "longitude": "-73.976132",
+    "location_name": "New York City Police Department 60th Precinct",
+    "latitude": "40.576514"
+  },
+  {
+    "city": "Brooklyn",
+    "longitude": "-73.947906",
+    "location_name": "New York City Police Department 71st Precinct",
+    "latitude": "40.664571"
+  },
+  {
+    "city": "Brooklyn",
+    "longitude": "-73.96376",
+    "location_name": "East 16th Street Pharmacy",
+    "latitude": "40.64152"
+  },
+  {
+    "city": "Brooklyn",
+    "longitude": "-73.973670",
+    "location_name": "New York City Police Department 70th Precinct",
+    "latitude": "40.630358"
+  },
+  {
+    "city": "Brooklyn",
+    "longitude": "-74.000882",
+    "location_name": "New York City Police Department 72nd Precinct",
+    "latitude": "40.658309"
+  },
+  {
+    "city": "Buchanan",
+    "longitude": "-73.93949",
+    "location_name": "Buchanan Village Police Department",
+    "latitude": "41.26153"
+  },
+  {
+    "city": "Buffalo",
+    "longitude": "-78.87701",
+    "location_name": "Erie County Sheriff's Office",
+    "latitude": "42.88733"
+  },
+  {
+    "city": "Buffalo",
+    "longitude": "-78.87384",
+    "location_name": "Walgreens",
+    "latitude": "42.90179"
+  },
+  {
+    "city": "Buffalo",
+    "longitude": "-78.871681",
+    "location_name": "Buffalo Police Department (B District)",
+    "latitude": "42.892979"
+  },
+  {
+    "city": "Buffalo",
+    "longitude": "-78.87318",
+    "location_name": "Erie Community College Safety Office City Campus",
+    "latitude": "42.88206"
+  },
+  {
+    "city": "Buffalo",
+    "longitude": "-78.883733",
+    "location_name": "Buffalo Police Department (D District)",
+    "latitude": "42.947429"
+  },
+  {
+    "city": "Buffalo",
+    "longitude": "-78.85241",
+    "location_name": "Canisius College Bosch Hall",
+    "latitude": "42.91749"
+  },
+  {
+    "city": "Buffalo",
+    "longitude": "-78.838592",
+    "location_name": "Buffalo Police Department (C District)",
+    "latitude": "42.914386"
+  },
+  {
+    "city": "Buffalo",
+    "longitude": "-78.85473",
+    "location_name": "Medaille College Public Safety Office",
+    "latitude": "42.92939"
+  },
+  {
+    "city": "Buffalo",
+    "longitude": "-78.813247",
+    "location_name": "Buffalo Police Department (E District)",
+    "latitude": "42.930125"
+  },
+  {
+    "city": "Buffalo",
+    "longitude": "-78.831810",
+    "location_name": "Erie County Medical Center",
+    "latitude": "42.926257"
+  },
+  {
+    "city": "Buffalo",
+    "longitude": "-78.824141",
+    "location_name": "Buffalo Police Department (A District)",
+    "latitude": "42.848451"
+  },
+  {
+    "city": "Buffalo",
+    "longitude": "-78.780389",
+    "location_name": "University at Buffalo University Police",
+    "latitude": "42.998671"
+  },
+  {
+    "city": "Cairo",
+    "longitude": "-74.002788",
+    "location_name": "Cairo Police Department",
+    "latitude": "42.298075"
+  },
+  {
+    "city": "Caledonia",
+    "longitude": "-77.854784",
+    "location_name": "Caledonia Village Police Department",
+    "latitude": "42.973647"
+  },
+  {
+    "city": "Cambridge",
+    "longitude": "-73.37746",
+    "location_name": "Cambridge Village Police Department",
+    "latitude": "43.03723"
+  },
+  {
+    "city": "Camden",
+    "longitude": "-75.752084",
+    "location_name": "Camden Police Department",
+    "latitude": "43.341079"
+  },
+  {
+    "city": "Canandaigua",
+    "longitude": "-77.2804",
+    "location_name": "Ontario County Department of Motor Vehicles",
+    "latitude": "42.88874"
+  },
+  {
+    "city": "Canandaigua",
+    "longitude": "-77.278364",
+    "location_name": "Ontario County Sheriff's Office",
+    "latitude": "42.889459"
+  },
+  {
+    "city": "Canandaigua",
+    "longitude": "-77.393288",
+    "location_name": "Bristol Town Hall",
+    "latitude": "42.809432"
+  },
+  {
+    "city": "Canandaigua",
+    "longitude": "-77.284309",
+    "location_name": "The Medicine Shoppe",
+    "latitude": "42.887515"
+  },
+  {
+    "city": "Canandaigua",
+    "longitude": "-77.241963",
+    "location_name": "Finger Lakes Community College",
+    "latitude": "42.866898"
+  },
+  {
+    "city": "Canandaigua",
+    "longitude": "-77.28972",
+    "location_name": "F.F. Thompson Hospital",
+    "latitude": "42.87623"
+  },
+  {
+    "city": "Canandaigua",
+    "longitude": "-77.215523",
+    "location_name": "Ontario County Public Health",
+    "latitude": "42.885813"
+  },
+  {
+    "city": "Canton",
+    "longitude": "-75.16961",
+    "location_name": "St. Lawrence County Sheriff's Office",
+    "latitude": "44.59865"
+  },
+  {
+    "city": "Carmel",
+    "longitude": "-73.67548",
+    "location_name": "Putnam County Sheriff's Department",
+    "latitude": "41.42525"
+  },
+  {
+    "city": "Catskill",
+    "longitude": "-73.863919",
+    "location_name": "Greene County Sheriff's Office",
+    "latitude": "42.217533"
+  },
+  {
+    "city": "Center Moriches",
+    "longitude": "-72.799426",
+    "location_name": "King Kullen Pharmacy",
+    "latitude": "40.799347"
+  },
+  {
+    "city": "Chappaqua",
+    "longitude": "-73.77466",
+    "location_name": "New Castle Police Department",
+    "latitude": "41.15547"
+  },
+  {
+    "city": "Chatham",
+    "longitude": "-73.594679",
+    "location_name": "Chatham Police Department",
+    "latitude": "42.363664"
+  },
+  {
+    "city": "Chester",
+    "longitude": "-74.272547",
+    "location_name": "Chester Police Department",
+    "latitude": "41.361944"
+  },
+  {
+    "city": "Cicero",
+    "longitude": "-76.11523",
+    "location_name": "Cicero Police Department",
+    "latitude": "43.16924"
+  },
+  {
+    "city": "Clarence",
+    "longitude": "-78.638897",
+    "location_name": "Clarence Town Hall",
+    "latitude": "42.995236"
+  },
+  {
+    "city": "Clarence",
+    "longitude": "-78.63584",
+    "location_name": "Erie County Sheriff's Substation Clarence",
+    "latitude": "43.01532"
+  },
+  {
+    "city": "Clark Mills",
+    "longitude": "-75.376548",
+    "location_name": "Kirkland Police Department",
+    "latitude": "43.091304"
+  },
+  {
+    "city": "Clifton Springs",
+    "longitude": "-77.13668",
+    "location_name": "Clifton Springs Hospital & Clinic",
+    "latitude": "42.96012"
+  },
+  {
+    "city": "Clintondale",
+    "longitude": "-74.067228",
+    "location_name": "Plattekill Police Department",
+    "latitude": "41.675411"
+  },
+  {
+    "city": "Cobleskill",
+    "longitude": "-74.48049",
+    "location_name": "Cobleskill Police Department",
+    "latitude": "42.669"
+  },
+  {
+    "city": "Colden",
+    "longitude": "-78.68492",
+    "location_name": "Erie County Sheriff's Substation Colden",
+    "latitude": "42.64323"
+  },
+  {
+    "city": "Cold Spring",
+    "longitude": "-73.950349",
+    "location_name": "Philipstown Town Hall",
+    "latitude": "41.423192"
+  },
+  {
+    "city": "Corning",
+    "longitude": "-76.96977",
+    "location_name": "Guthrie Corning Hospital Pharmacy",
+    "latitude": "42.13592"
+  },
+  {
+    "city": "Cornwall",
+    "longitude": "-74.304908",
+    "location_name": "Cornwall Police Department",
+    "latitude": "41.438898"
+  },
+  {
+    "city": "Cortland",
+    "longitude": "-76.17838",
+    "location_name": "Cortland Police Department",
+    "latitude": "42.59908"
+  },
+  {
+    "city": "Cortland",
+    "longitude": "-76.194825",
+    "location_name": "SUNY Cortland University Police",
+    "latitude": "42.593487"
+  },
+  {
+    "city": "Cortland",
+    "longitude": "-76.175885",
+    "location_name": "Cortland County Sheriff's Department",
+    "latitude": "42.598781"
+  },
+  {
+    "city": "Cortlandt",
+    "longitude": "-73.90528",
+    "location_name": "Cortlandt Manor Police Department",
+    "latitude": "41.31026"
+  },
+  {
+    "city": "Cottekill",
+    "longitude": "-74.110666",
+    "location_name": "Rosendale Police Department",
+    "latitude": "41.849100"
+  },
+  {
+    "city": "Coxsackie",
+    "longitude": "-73.80751",
+    "location_name": "Village of Coxsackie Police Department",
+    "latitude": "42.35602"
+  },
+  {
+    "city": "Croton-on-Hudson",
+    "longitude": "-73.8877",
+    "location_name": "Village of Croton-on-Hudson Police Department",
+    "latitude": "41.2083"
+  },
+  {
+    "city": "Cuba",
+    "longitude": "-78.279759",
+    "location_name": "Cuba Police Department",
+    "latitude": "42.218288"
+  },
+  {
+    "city": "Cutchogue",
+    "longitude": "-72.48154",
+    "location_name": "King Kullen Pharmacy",
+    "latitude": "41.01971"
+  },
+  {
+    "city": "Dansville",
+    "longitude": "-77.695704",
+    "location_name": "Dansville Police Department",
+    "latitude": "42.559512"
+  },
+  {
+    "city": "Delhi",
+    "longitude": "-74.910759",
+    "location_name": "Delaware County Sheriff's Office",
+    "latitude": "42.291364"
+  },
+  {
+    "city": "Depew",
+    "longitude": "-78.68577",
+    "location_name": "Depew Police Department",
+    "latitude": "42.90505"
+  },
+  {
+    "city": "Deposit",
+    "longitude": "-75.42569",
+    "location_name": "Deposit Police Department",
+    "latitude": "42.06047"
+  },
+  {
+    "city": "Dobbs Ferry",
+    "longitude": "-73.874675",
+    "location_name": "Dobbs Ferry Police Department",
+    "latitude": "41.015049"
+  },
+  {
+    "city": "Dolgeville",
+    "longitude": "-74.770583",
+    "location_name": "Dolgeville Police Department",
+    "latitude": "43.103333"
+  },
+  {
+    "city": "Dryden",
+    "longitude": "-76.297802",
+    "location_name": "Dryden Village Police Department",
+    "latitude": "42.489499"
+  },
+  {
+    "city": "Dryden",
+    "longitude": "-76.287430",
+    "location_name": "Tompkins Cortland Community College Campus Police",
+    "latitude": "42.502434"
+  },
+  {
+    "city": "East Aurora",
+    "longitude": "-78.613340",
+    "location_name": "East Aurora Police Department",
+    "latitude": "42.767670"
+  },
+  {
+    "city": "Eastchester",
+    "longitude": "-73.811377",
+    "location_name": "Eastchester Police Department",
+    "latitude": "40.955519"
+  },
+  {
+    "city": "East Durham",
+    "longitude": "-74.132401",
+    "location_name": "Durham Police Department",
+    "latitude": "42.403052"
+  },
+  {
+    "city": "East Farmingdale",
+    "longitude": "-73.419762",
+    "location_name": "New York State Police Troop L Farmingdale",
+    "latitude": "40.725038"
+  },
+  {
+    "city": "East Hampton",
+    "longitude": "-72.182801",
+    "location_name": "East Hampton Village Police Department",
+    "latitude": "40.969367"
+  },
+  {
+    "city": "East Rochester",
+    "longitude": "-77.485538",
+    "location_name": "East Rochester Police Department",
+    "latitude": "43.112502"
+  },
+  {
+    "city": "East Syracuse",
+    "longitude": "-76.049352",
+    "location_name": "Dewitt Police Department",
+    "latitude": "43.046635"
+  },
+  {
+    "city": "Ellenville",
+    "longitude": "-74.39599",
+    "location_name": "Ellenville Police Department",
+    "latitude": "41.71821"
+  },
+  {
+    "city": "Elma",
+    "longitude": "-78.63862",
+    "location_name": "Erie County Sheriff's Substation Elma",
+    "latitude": "42.81445"
+  },
+  {
+    "city": "Elmhurst",
+    "longitude": "-73.87807",
+    "location_name": "Walgreens",
+    "latitude": "40.73954"
+  },
+  {
+    "city": "Elmira",
+    "longitude": "-76.803058",
+    "location_name": "Elmira Police Department",
+    "latitude": "42.091585"
+  },
+  {
+    "city": "Elmira",
+    "longitude": "-76.844607",
+    "location_name": "West Elmira Police Department",
+    "latitude": "42.077633"
+  },
+  {
+    "city": "Elmont",
+    "longitude": "-73.69014",
+    "location_name": "Meacham Pharmacy",
+    "latitude": "40.70537"
+  },
+  {
+    "city": "Elmont",
+    "longitude": "-73.704339",
+    "location_name": "Nassau County Police Department 5th Precinct",
+    "latitude": "40.687411"
+  },
+  {
+    "city": "Elmsford",
+    "longitude": "-73.820139",
+    "location_name": "Elmsford Police Department",
+    "latitude": "41.053530"
+  },
+  {
+    "city": "Fairport",
+    "longitude": "-77.441500",
+    "location_name": "Fairport Police Department",
+    "latitude": "43.100496"
+  },
+  {
+    "city": "Farmington",
+    "longitude": "-77.340984",
+    "location_name": "New York State Police Troop E Canandaigua",
+    "latitude": "42.956695"
+  },
+  {
+    "city": "Fillmore",
+    "longitude": "-78.111950",
+    "location_name": "Fillmore Pharmacy",
+    "latitude": "42.458241"
+  },
+  {
+    "city": "Floral Park",
+    "longitude": "-73.705971",
+    "location_name": "Floral Park Police Department",
+    "latitude": "40.723921"
+  },
+  {
+    "city": "Flushing",
+    "longitude": "-73.82974",
+    "location_name": "Duane Reade",
+    "latitude": "40.75946"
+  },
+  {
+    "city": "Forest Hills",
+    "longitude": "-73.84423",
+    "location_name": "Duane Reade",
+    "latitude": "40.72045"
+  },
+  {
+    "city": "Fort Edward",
+    "longitude": "-73.589416",
+    "location_name": "Washington County Law Enforcement Center",
+    "latitude": "43.289157"
+  },
+  {
+    "city": "Fort Edward",
+    "longitude": "-73.585200",
+    "location_name": "Fort Edward Police Department",
+    "latitude": "43.268123"
+  },
+  {
+    "city": "Ft. Drum",
+    "longitude": "-75.787667",
+    "location_name": "US Army Conner Troop Medical Clinic Ft. Drum",
+    "latitude": "44.051104"
+  },
+  {
+    "city": "Ft. Drum",
+    "longitude": "-75.80846",
+    "location_name": "Guthrie Ambulatory Health Care Clinic Ft. Drum",
+    "latitude": "44.05261"
+  },
+  {
+    "city": "Fultonville",
+    "longitude": "-74.332758",
+    "location_name": "Montgomery County Sheriff's Office",
+    "latitude": "42.933707"
+  },
+  {
+    "city": "Garden City",
+    "longitude": "-73.63681",
+    "location_name": "Garden City Police Department",
+    "latitude": "40.72654"
+  },
+  {
+    "city": "Geneseo",
+    "longitude": "-77.81634",
+    "location_name": "Livingston County Sheriff's Office",
+    "latitude": "42.80023"
+  },
+  {
+    "city": "Geneva",
+    "longitude": "-76.989068",
+    "location_name": "North Street Pharmacy",
+    "latitude": "42.876803"
+  },
+  {
+    "city": "Geneva",
+    "longitude": "-76.97875",
+    "location_name": "Geneva Police Department",
+    "latitude": "42.87111"
+  },
+  {
+    "city": "Glen Cove",
+    "longitude": "-73.631507",
+    "location_name": "Glen Cove Police Department",
+    "latitude": "40.863184"
+  },
+  {
+    "city": "Glens Falls",
+    "longitude": "-73.644335",
+    "location_name": "Glens Falls Police Department",
+    "latitude": "43.310860"
+  },
+  {
+    "city": "Goshen",
+    "longitude": "-74.32628",
+    "location_name": "Goshen Police Department",
+    "latitude": "41.40218"
+  },
+  {
+    "city": "Gowanda",
+    "longitude": "-78.933643",
+    "location_name": "Gowanda Police Department",
+    "latitude": "42.463882"
+  },
+  {
+    "city": "Grand Island",
+    "longitude": "-78.965143",
+    "location_name": "Grand Island Town Hall",
+    "latitude": "43.022858"
+  },
+  {
+    "city": "Grand Island",
+    "longitude": "-78.96066",
+    "location_name": "Erie County Sheriff's Substation Grand Island",
+    "latitude": "43.02176"
+  },
+  {
+    "city": "Granville",
+    "longitude": "-73.266537",
+    "location_name": "Granville Police Department",
+    "latitude": "43.402202"
+  },
+  {
+    "city": "Greece",
+    "longitude": "-77.659905",
+    "location_name": "Greece Police Department",
+    "latitude": "43.263212"
+  },
+  {
+    "city": "Greenvale",
+    "longitude": "-73.62963",
+    "location_name": "Greenvale Pharmacy",
+    "latitude": "40.80938"
+  },
+  {
+    "city": "Greenville",
+    "longitude": "-74.02103",
+    "location_name": "Kelly's Pharmacy",
+    "latitude": "42.41528"
+  },
+  {
+    "city": "Greenwich",
+    "longitude": "-73.503081",
+    "location_name": "Greenwich Police Department",
+    "latitude": "43.091443"
+  },
+  {
+    "city": "Groton",
+    "longitude": "-76.367133",
+    "location_name": "Groton Police Department",
+    "latitude": "42.590551"
+  },
+  {
+    "city": "Hamburg",
+    "longitude": "-78.82442",
+    "location_name": "Town of Hamburg Police Department",
+    "latitude": "42.72914"
+  },
+  {
+    "city": "Hampton Bays",
+    "longitude": "-72.538767",
+    "location_name": "Southampton Town Police Department",
+    "latitude": "40.886686"
+  },
+  {
+    "city": "Harrison",
+    "longitude": "-73.724195",
+    "location_name": "Harrison Police Department",
+    "latitude": "40.997792"
+  },
+  {
+    "city": "Harrisville",
+    "longitude": "-75.31623",
+    "location_name": "Bonaparte Pharmacy",
+    "latitude": "44.14842"
+  },
+  {
+    "city": "Hastings-on-Hudson",
+    "longitude": "-73.883755",
+    "location_name": "Hastings-on-Hudson Police Department",
+    "latitude": "40.995745"
+  },
+  {
+    "city": "Hempstead",
+    "longitude": "-73.61951",
+    "location_name": "Walgreens",
+    "latitude": "40.70778"
+  },
+  {
+    "city": "Hempstead",
+    "longitude": "-73.63333",
+    "location_name": "Community Care Rx",
+    "latitude": "40.70353"
+  },
+  {
+    "city": "Henrietta",
+    "longitude": "-77.65053",
+    "location_name": "Monroe County Sheriff's Office B Zone",
+    "latitude": "43.05654"
+  },
+  {
+    "city": "Hensonville",
+    "longitude": "-74.217523",
+    "location_name": "Windham Police Department",
+    "latitude": "42.291361"
+  },
+  {
+    "city": "Herkimer",
+    "longitude": "-74.98698",
+    "location_name": "Herkimer Police Department",
+    "latitude": "43.02696"
+  },
+  {
+    "city": "Herkimer",
+    "longitude": "-74.989027",
+    "location_name": "Herkimer County Sheriff's Office",
+    "latitude": "43.029037"
+  },
+  {
+    "city": "Hewlett",
+    "longitude": "-73.690044",
+    "location_name": "Nassau County Police Department 4th Precinct",
+    "latitude": "40.646458"
+  },
+  {
+    "city": "Hicksville",
+    "longitude": "-73.51986",
+    "location_name": "Walgreens",
+    "latitude": "40.7636"
+  },
+  {
+    "city": "Highland",
+    "longitude": "-73.964286",
+    "location_name": "Town of Lloyd Police Department",
+    "latitude": "41.717187"
+  },
+  {
+    "city": "Highland Falls",
+    "longitude": "-73.965319",
+    "location_name": "Highland Falls Police Department",
+    "latitude": "41.370544"
+  },
+  {
+    "city": "Holland",
+    "longitude": "-78.542214",
+    "location_name": "Holland Town Hall",
+    "latitude": "42.642850"
+  },
+  {
+    "city": "Homer",
+    "longitude": "-76.18163",
+    "location_name": "Police Department",
+    "latitude": "42.63665"
+  },
+  {
+    "city": "Hopewell Junction",
+    "longitude": "-73.79543",
+    "location_name": "East Fishkill Police Department",
+    "latitude": "41.55329"
+  },
+  {
+    "city": "Horseheads",
+    "longitude": "-76.820687",
+    "location_name": "Horseheads Police Department",
+    "latitude": "42.166797"
+  },
+  {
+    "city": "Hudson",
+    "longitude": "-73.75678",
+    "location_name": "Columbia County Sheriff's Department",
+    "latitude": "42.24955"
+  },
+  {
+    "city": "Hudson",
+    "longitude": "-73.788",
+    "location_name": "Hudson Police Department",
+    "latitude": "42.25032"
+  },
+  {
+    "city": "Hudson Falls",
+    "longitude": "-73.584612",
+    "location_name": "Hudson Falls Police Department",
+    "latitude": "43.302893"
+  },
+  {
+    "city": "Huntington",
+    "longitude": "-73.42015",
+    "location_name": "King Kullen Pharmacy",
+    "latitude": "40.88076"
+  },
+  {
+    "city": "Huntington",
+    "longitude": "-73.36359",
+    "location_name": "Suffolk County Police Department 2nd Precinct",
+    "latitude": "40.83469"
+  },
+  {
+    "city": "Huntington",
+    "longitude": "-73.453120",
+    "location_name": "Lloyd Harbor Police Department",
+    "latitude": "40.894155"
+  },
+  {
+    "city": "Hyde Park",
+    "longitude": "-73.91034",
+    "location_name": "Hyde Park Police Department",
+    "latitude": "41.78944"
+  },
+  {
+    "city": "Ilion",
+    "longitude": "-75.037455",
+    "location_name": "Ilion Police Department",
+    "latitude": "43.014390"
+  },
+  {
+    "city": "Irondequoit",
+    "longitude": "-77.56126",
+    "location_name": "Walgreens",
+    "latitude": "43.20412"
+  },
+  {
+    "city": "Ithaca",
+    "longitude": "-76.47897",
+    "location_name": "Cayuga Heights Police Department",
+    "latitude": "42.46965"
+  },
+  {
+    "city": "Ithaca",
+    "longitude": "-76.50312",
+    "location_name": "Tompkins County Department of Probation",
+    "latitude": "42.43986"
+  },
+  {
+    "city": "Ithaca",
+    "longitude": "-76.46691",
+    "location_name": "Tompkins County Sheriff's Office",
+    "latitude": "42.49254"
+  },
+  {
+    "city": "Ithaca",
+    "longitude": "-76.497567",
+    "location_name": "Ithaca Police Department",
+    "latitude": "42.437198"
+  },
+  {
+    "city": "Ithaca",
+    "longitude": "-76.48159",
+    "location_name": "Cornell University Police",
+    "latitude": "42.44609"
+  },
+  {
+    "city": "Jackson Heights",
+    "longitude": "-73.89236",
+    "location_name": "Duane Reade",
+    "latitude": "40.7489"
+  },
+  {
+    "city": "Jackson Heights",
+    "longitude": "-73.88878",
+    "location_name": "Frank's Pharmacy",
+    "latitude": "40.74945"
+  },
+  {
+    "city": "Jamaica",
+    "longitude": "-73.77986",
+    "location_name": "Walgreens",
+    "latitude": "40.67772"
+  },
+  {
+    "city": "Jamestown",
+    "longitude": "-79.2381",
+    "location_name": "Jamestown Police Department",
+    "latitude": "42.09616"
+  },
+  {
+    "city": "Johnstown",
+    "longitude": "-74.34908",
+    "location_name": "Fulton County Sheriff's Office",
+    "latitude": "43.01803"
+  },
+  {
+    "city": "Jordan",
+    "longitude": "-76.472262",
+    "location_name": "Jordan Police Department",
+    "latitude": "43.065650"
+  },
+  {
+    "city": "Kenmore",
+    "longitude": "-78.87831",
+    "location_name": "Kenmore Police Department",
+    "latitude": "42.96248"
+  },
+  {
+    "city": "Kent Lakes",
+    "longitude": "-73.670855",
+    "location_name": "Kent Police Department",
+    "latitude": "41.478279"
+  },
+  {
+    "city": "Kingston",
+    "longitude": "-73.98555",
+    "location_name": "Kingston Police Department",
+    "latitude": "41.92097"
+  },
+  {
+    "city": "Kingston",
+    "longitude": "-74.01597",
+    "location_name": "Ulster County Sheriff's Department",
+    "latitude": "41.91225"
+  },
+  {
+    "city": "Lake George",
+    "longitude": "-73.698668",
+    "location_name": "Warren County Sheriff's Office",
+    "latitude": "43.362057"
+  },
+  {
+    "city": "Lake Katrine",
+    "longitude": "-74.002947",
+    "location_name": "Ulster Police Department",
+    "latitude": "41.976641"
+  },
+  {
+    "city": "Lake Pleasant",
+    "longitude": "-74.411470",
+    "location_name": "Hamilton County Sheriff's Office",
+    "latitude": "43.470499"
+  },
+  {
+    "city": "Lancaster",
+    "longitude": "-78.62274",
+    "location_name": "Lancaster Police Department",
+    "latitude": "42.92933"
+  },
+  {
+    "city": "Larchmont",
+    "longitude": "-73.751587",
+    "location_name": "Larchmont Police Department",
+    "latitude": "40.927257"
+  },
+  {
+    "city": "Latham",
+    "longitude": "-73.7809385",
+    "location_name": "New York State Police Troop G Latham",
+    "latitude": "42.7568528"
+  },
+  {
+    "city": "Levittown",
+    "longitude": "-73.51533",
+    "location_name": "King Kullen Pharmacy",
+    "latitude": "40.72459"
+  },
+  {
+    "city": "Lewis",
+    "longitude": "-73.536561",
+    "location_name": "Essex County Sheriff's Office",
+    "latitude": "44.282631"
+  },
+  {
+    "city": "Liberty",
+    "longitude": "-74.74686",
+    "location_name": "Liberty Police Department",
+    "latitude": "41.80222"
+  },
+  {
+    "city": "Liberty",
+    "longitude": "-74.710815",
+    "location_name": "Sullivan County Department of Social Services",
+    "latitude": "41.796265"
+  },
+  {
+    "city": "Liberty",
+    "longitude": "-74.724932",
+    "location_name": "The Medicine Shoppe Pharmacy of Liberty",
+    "latitude": "41.784330"
+  },
+  {
+    "city": "Lima",
+    "longitude": "-77.611969",
+    "location_name": "Lima Village Pharmacy",
+    "latitude": "42.904577"
+  },
+  {
+    "city": "Little Falls",
+    "longitude": "-74.855528",
+    "location_name": "Little Falls Police Department",
+    "latitude": "43.044514"
+  },
+  {
+    "city": "Lockport",
+    "longitude": "-78.69559",
+    "location_name": "Lockport Police Department",
+    "latitude": "43.16957"
+  },
+  {
+    "city": "Lockport",
+    "longitude": "-78.73726",
+    "location_name": "Niagara County Sheriff's Office",
+    "latitude": "43.18023"
+  },
+  {
+    "city": "Lowville",
+    "longitude": "-75.49954",
+    "location_name": "Lewis County General Hospital Pharmacy",
+    "latitude": "43.7952"
+  },
+  {
+    "city": "Lynbrook",
+    "longitude": "-73.675267",
+    "location_name": "Lynbrook Police Department",
+    "latitude": "40.657544"
+  },
+  {
+    "city": "Lyons Falls",
+    "longitude": "-75.36735",
+    "location_name": "Falls Pharmacy",
+    "latitude": "43.61943"
+  },
+  {
+    "city": "Mahopac",
+    "longitude": "-73.723652",
+    "location_name": "Carmel Police Department",
+    "latitude": "41.377475"
+  },
+  {
+    "city": "Malone",
+    "longitude": "-74.31829",
+    "location_name": "Franklin County Sheriff's Office",
+    "latitude": "44.86981"
+  },
+  {
+    "city": "Malverne",
+    "longitude": "-73.66778",
+    "location_name": "Malverne Police Department",
+    "latitude": "40.67559"
+  },
+  {
+    "city": "Mamaroneck",
+    "longitude": "-73.608458",
+    "location_name": "Town of Mamaroneck Police Department",
+    "latitude": "41.269158"
+  },
+  {
+    "city": "Manhasset",
+    "longitude": "-73.701153",
+    "location_name": "Nassau County Police Department",
+    "latitude": "40.785335"
+  },
+  {
+    "city": "Manlius",
+    "longitude": "-75.98494",
+    "location_name": "Town of Manlius Police Department",
+    "latitude": "43.00349"
+  },
+  {
+    "city": "Manorville",
+    "longitude": "-72.794694",
+    "location_name": "King Kullen Pharmacy",
+    "latitude": "40.867981"
+  },
+  {
+    "city": "Marcellus",
+    "longitude": "-76.341421",
+    "location_name": "Marcellus Police Department",
+    "latitude": "42.982830"
+  },
+  {
+    "city": "Marilla",
+    "longitude": "-78.555554",
+    "location_name": "Marilla Town Hall",
+    "latitude": "42.839264"
+  },
+  {
+    "city": "Massena",
+    "longitude": "-74.89334",
+    "location_name": "Massena Police Department",
+    "latitude": "44.93114"
+  },
+  {
+    "city": "Mayville",
+    "longitude": "-79.503834",
+    "location_name": "Chautauqua County Sheriff's Office",
+    "latitude": "42.254584"
+  },
+  {
+    "city": "Middle Island",
+    "longitude": "-72.923323",
+    "location_name": "King Kullen Pharmacy",
+    "latitude": "40.888484"
+  },
+  {
+    "city": "Middleport",
+    "longitude": "-78.476883",
+    "location_name": "Middleport Police Department",
+    "latitude": "43.212154"
+  },
+  {
+    "city": "Middletown",
+    "longitude": "-74.421792",
+    "location_name": "Middletown Police Department",
+    "latitude": "41.445430"
+  },
+  {
+    "city": "Middletown",
+    "longitude": "-74.36142",
+    "location_name": "New York State Police Troop F Middletown",
+    "latitude": "41.44701"
+  },
+  {
+    "city": "Middletown",
+    "longitude": "-74.374803",
+    "location_name": "Town of Wallkill Police Department",
+    "latitude": "41.466914"
+  },
+  {
+    "city": "Miller Place",
+    "longitude": "-72.99871",
+    "location_name": "Echo Pharmacy",
+    "latitude": "40.9439"
+  },
+  {
+    "city": "Millerton",
+    "longitude": "-73.509741",
+    "location_name": "Millerton Police Department",
+    "latitude": "41.955238"
+  },
+  {
+    "city": "Milton",
+    "longitude": "-73.960375",
+    "location_name": "Town of Marlborough Police Department",
+    "latitude": "41.659396"
+  },
+  {
+    "city": "Mineola",
+    "longitude": "-73.639142",
+    "location_name": "Nassau County Police Department",
+    "latitude": "40.736645"
+  },
+  {
+    "city": "Montgomery",
+    "longitude": "-74.199280",
+    "location_name": "Montgomery Police Department",
+    "latitude": "41.522039"
+  },
+  {
+    "city": "Monticello",
+    "longitude": "-74.681730",
+    "location_name": "Monticello Police Department",
+    "latitude": "41.654331"
+  },
+  {
+    "city": "Mount Morris",
+    "longitude": "-77.880515",
+    "location_name": "Livingston County Department of Health",
+    "latitude": "42.729086"
+  },
+  {
+    "city": "Mount Sinai",
+    "longitude": "-73.03116",
+    "location_name": "King Kullen Pharmacy",
+    "latitude": "40.93247"
+  },
+  {
+    "city": "Mount Vernon",
+    "longitude": "-73.83869",
+    "location_name": "Mount Vernon Police Department",
+    "latitude": "40.91282"
+  },
+  {
+    "city": "Napanoch",
+    "longitude": "-74.378475",
+    "location_name": "Ulster County Sheriff's Department Wawarsing Sub-Station",
+    "latitude": "41.729378"
+  },
+  {
+    "city": "Nassau",
+    "longitude": "-73.57181",
+    "location_name": "Nassau Pharmacy",
+    "latitude": "42.51525"
+  },
+  {
+    "city": "Newburgh",
+    "longitude": "-74.009169",
+    "location_name": "Newburgh Police Department Headquarters",
+    "latitude": "41.499125"
+  },
+  {
+    "city": "Newburgh",
+    "longitude": "-74.06337",
+    "location_name": "Newburgh Police Department",
+    "latitude": "41.53164"
+  },
+  {
+    "city": "New City",
+    "longitude": "-73.98589",
+    "location_name": "Walgreens",
+    "latitude": "41.15471"
+  },
+  {
+    "city": "New City",
+    "longitude": "-73.99453",
+    "location_name": "Rockland County Sheriff's Department",
+    "latitude": "41.1472"
+  },
+  {
+    "city": "New Dorp",
+    "longitude": "-74.10555",
+    "location_name": "New York City Police Department 122nd Precinct",
+    "latitude": "40.57417"
+  },
+  {
+    "city": "New Paltz",
+    "longitude": "-74.082472",
+    "location_name": "SUNY New Paltz University Police Department",
+    "latitude": "41.736431"
+  },
+  {
+    "city": "New Paltz",
+    "longitude": "-74.07416",
+    "location_name": "New Paltz Police Department",
+    "latitude": "41.73143"
+  },
+  {
+    "city": "New Windsor",
+    "longitude": "-74.06282",
+    "location_name": "Town of New Windsor Police Department",
+    "latitude": "41.48245"
+  },
+  {
+    "city": "New York",
+    "longitude": "-73.99353",
+    "location_name": "Duane Reade",
+    "latitude": "40.73597"
+  },
+  {
+    "city": "New York",
+    "longitude": "-74.00973",
+    "location_name": "Duane Reade",
+    "latitude": "40.70695"
+  },
+  {
+    "city": "New York",
+    "longitude": "-73.980728",
+    "location_name": "Walgreens",
+    "latitude": "40.733260"
+  },
+  {
+    "city": "New York",
+    "longitude": "-73.99227",
+    "location_name": "Duane Reade",
+    "latitude": "40.74296"
+  },
+  {
+    "city": "New York",
+    "longitude": "-73.97854",
+    "location_name": "Duane Reade",
+    "latitude": "40.74616"
+  },
+  {
+    "city": "New York",
+    "longitude": "-73.97936",
+    "location_name": "Duane Reade",
+    "latitude": "40.7604"
+  },
+  {
+    "city": "New York",
+    "longitude": "-73.96736",
+    "location_name": "Duane Reade",
+    "latitude": "40.7599"
+  },
+  {
+    "city": "New York",
+    "longitude": "-73.96647",
+    "location_name": "Duane Reade",
+    "latitude": "40.7938"
+  },
+  {
+    "city": "New York",
+    "longitude": "-73.97228",
+    "location_name": "Duane Reade",
+    "latitude": "40.79332"
+  },
+  {
+    "city": "New York",
+    "longitude": "-73.9899",
+    "location_name": "Duane Reade",
+    "latitude": "40.75756"
+  },
+  {
+    "city": "New York",
+    "longitude": "-73.94989",
+    "location_name": "Duane Reade",
+    "latitude": "40.77155"
+  },
+  {
+    "city": "New York",
+    "longitude": "-73.95735",
+    "location_name": "Duane Reade",
+    "latitude": "40.78251"
+  },
+  {
+    "city": "Niagara Falls",
+    "longitude": "-78.984828",
+    "location_name": "Niagara Police Department",
+    "latitude": "43.121417"
+  },
+  {
+    "city": "Niagara Falls",
+    "longitude": "-79.052552",
+    "location_name": "Niagara Falls Police Department",
+    "latitude": "43.106134"
+  },
+  {
+    "city": "Niskayuna",
+    "longitude": "-73.885450",
+    "location_name": "Niskayuna Police Department",
+    "latitude": "42.819227"
+  },
+  {
+    "city": "North Patchogue",
+    "longitude": "-73.031476",
+    "location_name": "King Kullen Pharmacy",
+    "latitude": "40.775537"
+  },
+  {
+    "city": "Northport",
+    "longitude": "-73.347470",
+    "location_name": "Northport Village Police Department",
+    "latitude": "40.900556"
+  },
+  {
+    "city": "North Salem",
+    "longitude": "-73.590595",
+    "location_name": "North Salem Police Department",
+    "latitude": "41.328777"
+  },
+  {
+    "city": "North Tonawanda",
+    "longitude": "-78.869974",
+    "location_name": "North Tonawanda Police Department",
+    "latitude": "43.029545"
+  },
+  {
+    "city": "North Tonawanda",
+    "longitude": "-78.861111",
+    "location_name": "Wurlitzer Family Pharmacy",
+    "latitude": "43.037181"
+  },
+  {
+    "city": "Old Brookville",
+    "longitude": "-73.571873",
+    "location_name": "Old Brookville Police Department",
+    "latitude": "40.830114"
+  },
+  {
+    "city": "Old Forge",
+    "longitude": "-74.970754",
+    "location_name": "Town of Webb Police Department",
+    "latitude": "43.712399"
+  },
+  {
+    "city": "Olean",
+    "longitude": "-78.428913",
+    "location_name": "Olean Police Department",
+    "latitude": "42.077779"
+  },
+  {
+    "city": "Olean",
+    "longitude": "-78.450038",
+    "location_name": "Cattaraugus County Building",
+    "latitude": "42.086434"
+  },
+  {
+    "city": "Oneida",
+    "longitude": "-75.649449",
+    "location_name": "New York State Police Troop D Oneida",
+    "latitude": "43.077543"
+  },
+  {
+    "city": "Oneonta",
+    "longitude": "-75.0643",
+    "location_name": "Oneonta Police Department",
+    "latitude": "42.45121"
+  },
+  {
+    "city": "Orchard Park",
+    "longitude": "-78.79812",
+    "location_name": "Erie Community College Safety Office South Campus",
+    "latitude": "42.77297"
+  },
+  {
+    "city": "Orchard Park",
+    "longitude": "-78.743127",
+    "location_name": "Orchard Park Police Department",
+    "latitude": "42.766280"
+  },
+  {
+    "city": "Oriskany",
+    "longitude": "-75.333140",
+    "location_name": "Oriskany Police Department",
+    "latitude": "43.157865"
+  },
+  {
+    "city": "Oriskany",
+    "longitude": "-75.376739",
+    "location_name": "Oneida County Sheriff's Department",
+    "latitude": "43.155924"
+  },
+  {
+    "city": "Ossining",
+    "longitude": "-73.86392",
+    "location_name": "Village of Ossining Police Department",
+    "latitude": "41.15824"
+  },
+  {
+    "city": "Oswego",
+    "longitude": "-76.51084",
+    "location_name": "Oswego City Police Department",
+    "latitude": "43.4548"
+  },
+  {
+    "city": "Otisville",
+    "longitude": "-74.528952",
+    "location_name": "Mount Hope Police Department",
+    "latitude": "41.478279"
+  },
+  {
+    "city": "Owego",
+    "longitude": "-76.266348",
+    "location_name": "Tioga County Sheriff's Office",
+    "latitude": "42.141709"
+  },
+  {
+    "city": "Owego",
+    "longitude": "-76.262535",
+    "location_name": "Owego Police Department",
+    "latitude": "42.104973"
+  },
+  {
+    "city": "Patchogue",
+    "longitude": "-73.0266",
+    "location_name": "Suffolk County Police Department 5th Precinct",
+    "latitude": "40.76854"
+  },
+  {
+    "city": "Patterson",
+    "longitude": "-73.604688",
+    "location_name": "Patterson Town Hall",
+    "latitude": "41.513848"
+  },
+  {
+    "city": "Pawling",
+    "longitude": "-73.600615",
+    "location_name": "Dutchess County Sheriff's Office Pawling Substation",
+    "latitude": "41.562540"
+  },
+  {
+    "city": "Peconic",
+    "longitude": "-72.456337",
+    "location_name": "Southold Police Department",
+    "latitude": "41.039786"
+  },
+  {
+    "city": "Peekskill",
+    "longitude": "-73.92235",
+    "location_name": "Peekskill Police Department",
+    "latitude": "41.29068"
+  },
+  {
+    "city": "Pelham",
+    "longitude": "-73.804324",
+    "location_name": "Pelham Manor Police Department",
+    "latitude": "40.890515"
+  },
+  {
+    "city": "Pelham",
+    "longitude": "-73.809189",
+    "location_name": "Pelham Police Department",
+    "latitude": "40.911691"
+  },
+  {
+    "city": "Phoenix",
+    "longitude": "-76.29869",
+    "location_name": "Oswego Valley Pharmacy",
+    "latitude": "43.23002"
+  },
+  {
+    "city": "Pine Bush",
+    "longitude": "-74.304908",
+    "location_name": "Crawford Police Department",
+    "latitude": "41.602955"
+  },
+  {
+    "city": "Plattsburgh",
+    "longitude": "-73.45439",
+    "location_name": "Plattsburgh Police Department",
+    "latitude": "44.69228"
+  },
+  {
+    "city": "Pleasantville",
+    "longitude": "-73.79165",
+    "location_name": "Pleasantville Police Department",
+    "latitude": "41.13385"
+  },
+  {
+    "city": "Port Byron",
+    "longitude": "-76.62341",
+    "location_name": "Herbst Pharmacy",
+    "latitude": "43.03517"
+  },
+  {
+    "city": "Port Chester",
+    "longitude": "-73.65895",
+    "location_name": "Port Chester Police Department",
+    "latitude": "41.00682"
+  },
+  {
+    "city": "Port Ewen",
+    "longitude": "-73.976856",
+    "location_name": "Ulster County Sheriff's Department Esopus Sub-Station",
+    "latitude": "41.898461"
+  },
+  {
+    "city": "Port Jervis",
+    "longitude": "-74.691001",
+    "location_name": "Port Jervis Police Department",
+    "latitude": "41.374532"
+  },
+  {
+    "city": "Port Washington",
+    "longitude": "-73.68227",
+    "location_name": "Port Washington Police Department",
+    "latitude": "40.82381"
+  },
+  {
+    "city": "Poughkeepsie",
+    "longitude": "-73.92138",
+    "location_name": "Dutchess County Sheriff's Office",
+    "latitude": "41.7106"
+  },
+  {
+    "city": "Poughkeepsie",
+    "longitude": "-73.889855",
+    "location_name": "Town of Poughkeepsie Police Department",
+    "latitude": "41.704667"
+  },
+  {
+    "city": "Pound Ridge",
+    "longitude": "-73.56906",
+    "location_name": "Pound Ridge Police Department",
+    "latitude": "41.19799"
+  },
+  {
+    "city": "Putnam Valley",
+    "longitude": "-73.865921",
+    "location_name": "Putnam Valley Town Hall",
+    "latitude": "41.368068"
+  },
+  {
+    "city": "Quogue",
+    "longitude": "-72.609389",
+    "location_name": "Quogue Police Department",
+    "latitude": "40.820418"
+  },
+  {
+    "city": "Ray Brook",
+    "longitude": "-74.08532",
+    "location_name": "New York State Police Troop B Ray Brook",
+    "latitude": "44.29999"
+  },
+  {
+    "city": "Red Hook",
+    "longitude": "-73.87668",
+    "location_name": "Red Hook Police Department",
+    "latitude": "41.99431"
+  },
+  {
+    "city": "Riverhead",
+    "longitude": "-72.65395",
+    "location_name": "Riverhead Police Department",
+    "latitude": "40.92214"
+  },
+  {
+    "city": "Rochester",
+    "longitude": "-77.59933",
+    "location_name": "The Pharmacy at Trillium Health",
+    "latitude": "43.14914"
+  },
+  {
+    "city": "Rochester",
+    "longitude": "-77.6134",
+    "location_name": "Monroe County Sheriff's Department Headquarters",
+    "latitude": "43.15253"
+  },
+  {
+    "city": "Rochester",
+    "longitude": "-77.581708",
+    "location_name": "Irondequoit Police Department",
+    "latitude": "43.212595"
+  },
+  {
+    "city": "Rochester",
+    "longitude": "-77.57557",
+    "location_name": "Brighton Police Department",
+    "latitude": "43.12705"
+  },
+  {
+    "city": "Rochester",
+    "longitude": "-77.599186",
+    "location_name": "Highland Family Medicine",
+    "latitude": "43.142116"
+  },
+  {
+    "city": "Rochester",
+    "longitude": "-77.606397",
+    "location_name": "Highland Hospital of Rochester",
+    "latitude": "43.135299"
+  },
+  {
+    "city": "Rochester",
+    "longitude": "-77.630453",
+    "location_name": "Strong Ties Community Support Clinic Pharmacy",
+    "latitude": "43.099371"
+  },
+  {
+    "city": "Rochester",
+    "longitude": "-77.694465",
+    "location_name": "Gates Police Department",
+    "latitude": "43.148696"
+  },
+  {
+    "city": "Rochester",
+    "longitude": "-77.697117",
+    "location_name": "ecopark",
+    "latitude": "43.102002"
+  },
+  {
+    "city": "Rochester",
+    "longitude": "-77.50346",
+    "location_name": "Monroe County Sheriff's Office A Zone",
+    "latitude": "43.12047"
+  },
+  {
+    "city": "Rochester",
+    "longitude": "-77.62528",
+    "location_name": "Strong Memorial Hospital Pharmacy",
+    "latitude": "43.12282"
+  },
+  {
+    "city": "Rock Hill",
+    "longitude": "-74.593766",
+    "location_name": "Rock Hill Pharmacy",
+    "latitude": "41.624324"
+  },
+  {
+    "city": "Rome",
+    "longitude": "-75.45836",
+    "location_name": "Walgreens",
+    "latitude": "43.20906"
+  },
+  {
+    "city": "Rome",
+    "longitude": "-75.455476",
+    "location_name": "Rome Police Department",
+    "latitude": "43.213529"
+  },
+  {
+    "city": "Romulus",
+    "longitude": "-76.830559",
+    "location_name": "Seneca County Sheriff's Office",
+    "latitude": "42.724951"
+  },
+  {
+    "city": "Rushville",
+    "longitude": "-77.226226",
+    "location_name": "Rushville Village Offices",
+    "latitude": "42.760114"
+  },
+  {
+    "city": "Rye",
+    "longitude": "-73.68305",
+    "location_name": "Rye Police Department",
+    "latitude": "40.9853"
+  },
+  {
+    "city": "Rye Brook",
+    "longitude": "-73.67455",
+    "location_name": "Rye Brook Police Department",
+    "latitude": "41.03464"
+  },
+  {
+    "city": "Sag Harbor",
+    "longitude": "-72.294784",
+    "location_name": "Sag Harbor Village Police Department",
+    "latitude": "41.000980"
+  },
+  {
+    "city": "Salamanca",
+    "longitude": "-78.708432",
+    "location_name": "Salamanca Police Department",
+    "latitude": "42.157574"
+  },
+  {
+    "city": "Salt Point",
+    "longitude": "-73.75495",
+    "location_name": "New York State Police Troop K Poughkeepsie",
+    "latitude": "41.78329"
+  },
+  {
+    "city": "Saranac Lake",
+    "longitude": "-74.13195",
+    "location_name": "Saranac Lake Police Department",
+    "latitude": "44.32421"
+  },
+  {
+    "city": "Saratoga Springs",
+    "longitude": "-73.80521",
+    "location_name": "Naval Branch Health Clinic Saratoga Springs",
+    "latitude": "43.08463"
+  },
+  {
+    "city": "Saratoga Springs",
+    "longitude": "-73.78404",
+    "location_name": "Saratoga Springs Police Department",
+    "latitude": "43.08325"
+  },
+  {
+    "city": "Saugerties",
+    "longitude": "-73.95878",
+    "location_name": "Saugerties Police Department",
+    "latitude": "42.08142"
+  },
+  {
+    "city": "Scarsdale",
+    "longitude": "-73.78487",
+    "location_name": "Scarsdale Police Department",
+    "latitude": "41.00516"
+  },
+  {
+    "city": "Schenectady",
+    "longitude": "-73.920460",
+    "location_name": "Stratton Air National Guard",
+    "latitude": "42.851742"
+  },
+  {
+    "city": "Schenectady",
+    "longitude": "-73.939996",
+    "location_name": "Schenectady County Sheriff's Department",
+    "latitude": "42.809934"
+  },
+  {
+    "city": "Seaford",
+    "longitude": "-73.496615",
+    "location_name": "Nassau County Police Department 7th Precinct",
+    "latitude": "40.664969"
+  },
+  {
+    "city": "Selden",
+    "longitude": "-73.03476",
+    "location_name": "Walgreens",
+    "latitude": "40.86755"
+  },
+  {
+    "city": "Selden",
+    "longitude": "-73.024989",
+    "location_name": "Suffolk County Police Department 6th Precinct",
+    "latitude": "40.866861"
+  },
+  {
+    "city": "Seneca Falls",
+    "longitude": "-76.798223",
+    "location_name": "Seneca Falls Police Department",
+    "latitude": "42.901097"
+  },
+  {
+    "city": "Shandaken",
+    "longitude": "-74.399624",
+    "location_name": "Shandaken Police Department",
+    "latitude": "42.122778"
+  },
+  {
+    "city": "Shelter Island",
+    "longitude": "-72.338583",
+    "location_name": "Shelter Island Police Department",
+    "latitude": "41.069545"
+  },
+  {
+    "city": "Sherrill",
+    "longitude": "-75.599599",
+    "location_name": "Sherrill Police Department",
+    "latitude": "43.072148"
+  },
+  {
+    "city": "Shirley",
+    "longitude": "-72.888807",
+    "location_name": "Suffolk County Police Department 7th Precinct",
+    "latitude": "40.839237"
+  },
+  {
+    "city": "Shokan",
+    "longitude": "-74.229076",
+    "location_name": "Olive Police Department",
+    "latitude": "41.975002"
+  },
+  {
+    "city": "Silver Creek",
+    "longitude": "-79.169544",
+    "location_name": "Silver Creek Village Hall",
+    "latitude": "42.545234"
+  },
+  {
+    "city": "Sleepy Hollow",
+    "longitude": "-73.85947",
+    "location_name": "Sleepy Hollow Police Department",
+    "latitude": "41.08495"
+  },
+  {
+    "city": "Smithtown",
+    "longitude": "-73.230443",
+    "location_name": "Suffolk County Police Department 4th Precinct",
+    "latitude": "40.825275"
+  },
+  {
+    "city": "Smithtown",
+    "longitude": "-73.196289",
+    "location_name": "Smithtown Public Safety",
+    "latitude": "40.853005"
+  },
+  {
+    "city": "Solvay",
+    "longitude": "-76.198709",
+    "location_name": "Solvay Police Department",
+    "latitude": "43.051698"
+  },
+  {
+    "city": "Solvay",
+    "longitude": "-76.211828",
+    "location_name": "Geddes Police Department",
+    "latitude": "43.060633"
+  },
+  {
+    "city": "Somers",
+    "longitude": "-73.694834",
+    "location_name": "Somers Police Department",
+    "latitude": "41.327998"
+  },
+  {
+    "city": "Southampton",
+    "longitude": "-72.39226",
+    "location_name": "Southrifty Drug",
+    "latitude": "40.88741"
+  },
+  {
+    "city": "South Fallsburgh",
+    "longitude": "-74.629333",
+    "location_name": "Fallsburg Police Department",
+    "latitude": "41.707771"
+  },
+  {
+    "city": "South Salem",
+    "longitude": "-73.566889",
+    "location_name": "Lewisboro Police Department",
+    "latitude": "41.281385"
+  },
+  {
+    "city": "Spencerport",
+    "longitude": "-77.80239",
+    "location_name": "Ogden Police Department",
+    "latitude": "43.17039"
+  },
+  {
+    "city": "Spencerport",
+    "longitude": "-77.8034",
+    "location_name": "Monroe County Sheriff's Office C Zone",
+    "latitude": "43.17744"
+  },
+  {
+    "city": "Springville",
+    "longitude": "-78.6652",
+    "location_name": "Erie County Sheriff's Substation Springville",
+    "latitude": "42.51019"
+  },
+  {
+    "city": "Staten Island",
+    "longitude": "-74.15952",
+    "location_name": "Walgreens",
+    "latitude": "40.61005"
+  },
+  {
+    "city": "Staten Island",
+    "longitude": "-74.100701",
+    "location_name": "Dongan Hills Pharmacy",
+    "latitude": "40.591576"
+  },
+  {
+    "city": "Staten Island",
+    "longitude": "-74.14919",
+    "location_name": "New York City Police Department 121st Precinct",
+    "latitude": "40.6236"
+  },
+  {
+    "city": "St. George",
+    "longitude": "-74.07713",
+    "location_name": "New York City Police Department 120th Precinct",
+    "latitude": "40.64475"
+  },
+  {
+    "city": "Stone Ridge",
+    "longitude": "-74.13129",
+    "location_name": "Ulster County Sheriff's Department SUNY Ulster Sub-Station",
+    "latitude": "41.85088"
+  },
+  {
+    "city": "Syracuse",
+    "longitude": "-76.147002",
+    "location_name": "Syracuse Police Department",
+    "latitude": "43.046728"
+  },
+  {
+    "city": "Syracuse",
+    "longitude": "-76.200607",
+    "location_name": "Onondaga Community College",
+    "latitude": "43.002221"
+  },
+  {
+    "city": "Syracuse",
+    "longitude": "-76.134703",
+    "location_name": "SUNY College of Environmental Science and Forestry (ESF)",
+    "latitude": "43.034712"
+  },
+  {
+    "city": "Syracuse",
+    "longitude": "-76.24837",
+    "location_name": "Camillus Police Department",
+    "latitude": "43.04543"
+  },
+  {
+    "city": "Tarrytown",
+    "longitude": "-73.86369",
+    "location_name": "Tarrytown Police Department",
+    "latitude": "41.07665"
+  },
+  {
+    "city": "Ticonderoga",
+    "longitude": "-73.424000",
+    "location_name": "Ticonderoga Police Department",
+    "latitude": "43.851718"
+  },
+  {
+    "city": "Tonawanda",
+    "longitude": "-78.83673",
+    "location_name": "Walgreens",
+    "latitude": "42.9803"
+  },
+  {
+    "city": "Tottenville",
+    "longitude": "-74.24973",
+    "location_name": "New York City Police Department 123rd Precinct",
+    "latitude": "40.51202"
+  },
+  {
+    "city": "Troy",
+    "longitude": "-73.68272",
+    "location_name": "North Greenbush Police Department",
+    "latitude": "42.68909"
+  },
+  {
+    "city": "Trumansburg",
+    "longitude": "-76.66083",
+    "location_name": "Trumansburg Police Department",
+    "latitude": "42.54138"
+  },
+  {
+    "city": "Tuckahoe",
+    "longitude": "-73.826648",
+    "location_name": "Tuckahoe Police Department",
+    "latitude": "40.950460"
+  },
+  {
+    "city": "Unadilla",
+    "longitude": "-75.31277",
+    "location_name": "Brown's Pharmacy",
+    "latitude": "42.3255"
+  },
+  {
+    "city": "Unadilla",
+    "longitude": "-75.351119",
+    "location_name": "New York State Police Troop C Sidney",
+    "latitude": "42.323087"
+  },
+  {
+    "city": "Utica",
+    "longitude": "-75.217672",
+    "location_name": "Garro Drugs",
+    "latitude": "43.098156"
+  },
+  {
+    "city": "Utica",
+    "longitude": "-75.23341",
+    "location_name": "Utica Police Department",
+    "latitude": "43.10402"
+  },
+  {
+    "city": "Valhalla",
+    "longitude": "-73.77759",
+    "location_name": "Mount Pleasant Police Department",
+    "latitude": "41.09636"
+  },
+  {
+    "city": "Vernon",
+    "longitude": "-75.54061",
+    "location_name": "U & I Pharmacy",
+    "latitude": "43.07891"
+  },
+  {
+    "city": "Victor",
+    "longitude": "-77.411891",
+    "location_name": "Mead Square Pharmacy",
+    "latitude": "42.982409"
+  },
+  {
+    "city": "Wainscott",
+    "longitude": "-72.250087",
+    "location_name": "East Hampton Police Department",
+    "latitude": "40.955709"
+  },
+  {
+    "city": "Walden",
+    "longitude": "-74.189697",
+    "location_name": "Walden Village Police Department",
+    "latitude": "41.559854"
+  },
+  {
+    "city": "Wallkill",
+    "longitude": "-74.182560",
+    "location_name": "Ulster County Sheriff's Department Wallkill Sub-Station",
+    "latitude": "41.600064"
+  },
+  {
+    "city": "Wallkill",
+    "longitude": "-74.180927",
+    "location_name": "Shawangunk Town Police Department",
+    "latitude": "41.604138"
+  },
+  {
+    "city": "Wampsville",
+    "longitude": "-75.708410",
+    "location_name": "Madison County Department of Social Services",
+    "latitude": "43.080037"
+  },
+  {
+    "city": "Wampsville",
+    "longitude": "-75.706085",
+    "location_name": "Madison County Department of Motor Vehicles",
+    "latitude": "43.080353"
+  },
+  {
+    "city": "Wappingers Falls",
+    "longitude": "-73.917464",
+    "location_name": "Wappingers Falls Police Department",
+    "latitude": "41.597033"
+  },
+  {
+    "city": "Warsaw",
+    "longitude": "-78.132640",
+    "location_name": "Wyoming County Sheriff's Office",
+    "latitude": "42.743768"
+  },
+  {
+    "city": "Warwick",
+    "longitude": "-74.336716",
+    "location_name": "Warwick Town Police Department",
+    "latitude": "41.269574"
+  },
+  {
+    "city": "Waterford",
+    "longitude": "-73.6786",
+    "location_name": "Waterford Police Department",
+    "latitude": "42.79049"
+  },
+  {
+    "city": "Waterloo",
+    "longitude": "-76.843493",
+    "location_name": "Seneca County Office Building",
+    "latitude": "42.908304"
+  },
+  {
+    "city": "Watertown",
+    "longitude": "-75.9277",
+    "location_name": "Jefferson County Sheriff's Department",
+    "latitude": "43.97277"
+  },
+  {
+    "city": "Waterville",
+    "longitude": "-75.376768",
+    "location_name": "Waterville Municipal Hall",
+    "latitude": "42.930108"
+  },
+  {
+    "city": "Watkins Glen",
+    "longitude": "-76.87053",
+    "location_name": "Schuyler County Sheriff's Office",
+    "latitude": "42.3766"
+  },
+  {
+    "city": "Waverly",
+    "longitude": "-76.529256",
+    "location_name": "Waverly Police Department",
+    "latitude": "42.007763"
+  },
+  {
+    "city": "Webster",
+    "longitude": "-77.457748",
+    "location_name": "Webster Police Department",
+    "latitude": "43.209641"
+  },
+  {
+    "city": "Wellsville",
+    "longitude": "-77.943148",
+    "location_name": "Wellsville Police Department",
+    "latitude": "42.118802"
+  },
+  {
+    "city": "West Babylon",
+    "longitude": "-73.37146",
+    "location_name": "Suffolk County Police Department 1st Precinct",
+    "latitude": "40.7122"
+  },
+  {
+    "city": "West Coxsackie",
+    "longitude": "-73.83131",
+    "location_name": "Kelly's Pharmacy",
+    "latitude": "42.37737"
+  },
+  {
+    "city": "Westhampton Beach",
+    "longitude": "-72.646862",
+    "location_name": "Westhampton Beach Police Department",
+    "latitude": "40.813527"
+  },
+  {
+    "city": "West Point",
+    "longitude": "-73.956596",
+    "location_name": "Keller Army Community Hospital Mologne Cadet Health Clinic",
+    "latitude": "41.388854"
+  },
+  {
+    "city": "West Point",
+    "longitude": "-73.976276",
+    "location_name": "Keller Army Community Hospital Pharmacy",
+    "latitude": "41.401624"
+  },
+  {
+    "city": "Whitehall",
+    "longitude": "-73.403050",
+    "location_name": "Whitehall Police Department",
+    "latitude": "43.553756"
+  },
+  {
+    "city": "White Plains",
+    "longitude": "-73.767967",
+    "location_name": "Westchester County Office",
+    "latitude": "41.030661"
+  },
+  {
+    "city": "White Plains",
+    "longitude": "-73.77125",
+    "location_name": "White Plains Police Department",
+    "latitude": "41.02997"
+  },
+  {
+    "city": "White Plains",
+    "longitude": "-73.784996",
+    "location_name": "Greenburgh Police Department",
+    "latitude": "41.040828"
+  },
+  {
+    "city": "Williamsville",
+    "longitude": "-78.72289",
+    "location_name": "Erie Community College Safety Office North Campus",
+    "latitude": "42.96629"
+  },
+  {
+    "city": "Williston Park",
+    "longitude": "-73.648196",
+    "location_name": "Nassau County Police Department 3rd Precinct",
+    "latitude": "40.755524"
+  },
+  {
+    "city": "Woodbury",
+    "longitude": "-73.486246",
+    "location_name": "Nassau County Police Department 2nd Precinct",
+    "latitude": "40.812163"
+  },
+  {
+    "city": "Woodstock",
+    "longitude": "-74.121498",
+    "location_name": "Woodstock Police Department",
+    "latitude": "42.040592"
+  },
+  {
+    "city": "Yonkers",
+    "longitude": "-73.8717",
+    "location_name": "Walgreens",
+    "latitude": "40.9653"
+  },
+  {
+    "city": "Yorktown Heights",
+    "longitude": "-73.79485",
+    "location_name": "Yorktown Police Department",
+    "latitude": "41.28179"
+  },
+  {
+    "city": "Youngstown",
+    "longitude": "-79.01718",
+    "location_name": "Lewiston Police Department",
+    "latitude": "43.21805"
+  }
+]

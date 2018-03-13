@@ -5,10 +5,10 @@ import json
 # from rest_framework.parsers import JSONParser
 from rest_framework.test import APIRequestFactory
 # from .serializers import DecSerializer
-from .views import read_dec_data_json
+from .views import read_dec_data_json, export_places
 from .models import Place
 import os
-# import pickle
+import pickle
 
 # Create your tests here.
 
@@ -33,8 +33,6 @@ class IngestTests(TestCase):
 
         request = factory.get('/location/read-dec-data/')
         view = read_dec_data_json(request)
-        # response = view()
-
         self.assertEqual(Place.objects.count(), 416)
 
         # read_dec_data_json()
@@ -51,3 +49,20 @@ class IngestTests(TestCase):
         #         self.assertEqual(len(keys), 8)
         #     else:
         #         self.assertEqual('dec_data_is_not_valid', '')
+
+class ExportTests(TestCase):
+
+    def test_export_all(self):
+
+        request = factory.get('/location/read-dec-data/')
+        view = read_dec_data_json(request)
+        self.assertEqual(Place.objects.count(), 416)
+
+
+        request = factory.get(
+            'location/export_all/',
+        )
+        view = export_places(request)
+        response=view(request)
+
+        self.assertMultiLineEqual(response.data, {})
