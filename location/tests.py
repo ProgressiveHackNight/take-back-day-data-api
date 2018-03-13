@@ -1,10 +1,7 @@
 from django.test import TestCase
 from django.conf import settings
 import json
-# from io import StringIO, BytesIO
-# from rest_framework.parsers import JSONParser
 from rest_framework.test import APIRequestFactory
-# from .serializers import DecSerializer
 from .views import read_dec_data_json, export_places
 from .models import Place
 import os
@@ -35,20 +32,6 @@ class IngestTests(TestCase):
         view = read_dec_data_json(request)
         self.assertEqual(Place.objects.count(), 416)
 
-        # read_dec_data_json()
-
-        # # stream = StringIO(self.json_source)
-        # # data = JSONParser().parse(stream)
-        # #
-        # dec_data = json.loads(self.json_source_file_object.read())
-        # # dec_data = DecSerializer(data=data)
-        # for item in dec_data:
-        #     item_data = DecSerializer(data=item)
-        #     if item_data.is_valid():
-        #         keys = item_data.keys()
-        #         self.assertEqual(len(keys), 8)
-        #     else:
-        #         self.assertEqual('dec_data_is_not_valid', '')
 
 class ExportTests(TestCase):
 

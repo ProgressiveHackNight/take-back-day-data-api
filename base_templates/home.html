@@ -1,12 +1,12 @@
 {% load static %}
 <html>
 <head>
-  <title>Home</title>
+  <title>Take Back Day</title>
   <link href="{% static 'css/takebackday.css' %}" rel="stylesheet" type="text/css" />
 </head>
 <body>
-  <h1>Home</h1>
-  <p class="adminlink"><a href="/admin/">Admin</a></p>
+  <h1>Take Back Day</h1>
+  <p class="adminlink"><a href="/admin/location/place">Admin</a></p>
   <p><a href={% url 'read-dec-data' %}>Read JSON data</a></p>
   <p><a href={% url 'export-places' %}>Export to JSON</a></p>
 </body>

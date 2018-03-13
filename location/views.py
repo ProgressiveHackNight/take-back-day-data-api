@@ -71,7 +71,7 @@ def read_dec_data_json(request):
 
 def export_places(request):
 
-    OUTFILE = "/vagrant/take-back-day-data-api/output.json"
+    OUTFILE = os.path.join(settings.MEDIA_ROOT , 'output.json')
 
     places = Place.objects.all()
     places_as_dict = [
@@ -83,9 +83,7 @@ def export_places(request):
         }
         for p in places]
 
-    print('DEBUG places_as_dict=', places_as_dict)
-
     with open(OUTFILE, 'w') as f:
         json.dump(places_as_dict, f, indent=2)
 
-    return redirect('/admin/location/place/')
+    return redirect('/media/output.json')
