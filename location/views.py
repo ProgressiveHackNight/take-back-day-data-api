@@ -101,9 +101,16 @@ def export_places(request):
     places = Place.objects.all()
     places_as_dict = [
         {
-            'location': '{}: {}, {} {} [{}]'.format(p.location_name, p.street_address, p.city, p.zip, p.type),
+            'name': '{}: {}, {}, {}, NY'.format(
+                p.location_name,
+                p.street_address,
+                p.city,
+                p.zip
+                ),
+            'type': p.type,
             'latitude': p.latitude,
             'longitude': p.longitude,
+            'notes': p.note,
         }
         for p in places]
 
