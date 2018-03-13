@@ -2,7 +2,7 @@ from django.test import TestCase
 from django.conf import settings
 import json
 from rest_framework.test import APIRequestFactory
-from .views import read_dec_data_json, export_places
+from .views import read_dec_data_json, read_spreadsheet, export_places
 from .models import Place
 import os
 import pickle
@@ -31,6 +31,11 @@ class IngestTests(TestCase):
         request = factory.get('/location/read-dec-data/')
         view = read_dec_data_json(request)
         self.assertEqual(Place.objects.count(), 416)
+
+    def test_read_spreadsheet(self):
+        request = factory.get('/location/read-spreadsheet/')
+        view = read_spreadsheet(request)
+        self.assertEqual(2, 3)
 
 
 class ExportTests(TestCase):

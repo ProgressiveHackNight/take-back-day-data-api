@@ -1,10 +1,9 @@
 import json
 import os
+from pyexcel_xlsx import get_data
 from django.shortcuts import redirect
 from django.conf import settings
 from django.db.utils import IntegrityError
-from rest_framework.response import Response
-from rest_framework import generics
 from .models import Place
 
 
@@ -69,17 +68,42 @@ def read_dec_data_json(request):
 
     return redirect('/admin/location/place/')
 
+
+def read_spreadsheet(request):
+    spreadsheet_filename = os.path.join(settings.MEDIA_ROOT, 'NYS Drop Box Locations 2017-01-31.xlsx')
+    data = get_data(spreadsheet_filename)
+
+    datadict = {}
+    i = 0
+    for sheet in data.keys():
+        print('DEBUG ', data[sheet][0])
+        for item in data[sheet]:
+            i += 1
+            print('\tDEBUG item=', item)
+            datadict[i] = {
+                'location_name': item[0],
+                'street_address': item[1],
+                'city': item[2],
+                'zip': item[3],
+                'borough': item[4],
+                'county': item[5]
+            }
+    # print('DEBUG datadict={}'.format(datadict))
+
+    return redirect('/admin/location/place/')
+
 def export_places(request):
+
+    # dump JSON file in media directory and display in browser
 
     OUTFILE = os.path.join(settings.MEDIA_ROOT , 'output.json')
 
     places = Place.objects.all()
     places_as_dict = [
         {
-            'location_name': p.location_name,
-            'city': p.city,
+            'location': '{}: {}, {} {} [{}]'.format(p.location_name, p.street_address, p.city, p.zip, p.type),
             'latitude': p.latitude,
-            'longitude': p.longitude
+            'longitude': p.longitude,
         }
         for p in places]
 
