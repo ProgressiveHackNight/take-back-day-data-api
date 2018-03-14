@@ -108,7 +108,7 @@ def read_spreadsheet(request):
 
     return redirect('/admin/location/place/')
 
-def export_json(request):
+def export_places(request):
 
     # dump JSON file in media directory and display in browser
 

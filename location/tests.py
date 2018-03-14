@@ -2,7 +2,7 @@ from django.test import TestCase
 from django.conf import settings
 import json
 from rest_framework.test import APIRequestFactory
-from .views import read_dec_data_json, read_spreadsheet, export_json
+from .views import read_dec_data_json, read_spreadsheet, export_places
 from .models import Place
 import os
 import pickle
@@ -50,7 +50,7 @@ class ExportTests(TestCase):
         request = factory.get(
             'location/export_all/',
         )
-        view = export_json(request)
+        view = export_places(request)
         response=view(request)
 
         self.assertMultiLineEqual(response.data, {})

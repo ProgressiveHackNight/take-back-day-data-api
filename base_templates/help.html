@@ -1,13 +1,59 @@
 {% load static %}
 <html>
 <head>
-  <title>Read Me</title>
+  <title>How to</title>
   <link href="{% static 'css/takebackday.css' %}" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
+  <p><a href="/">Back to Home Page</a></p>
   <h1>Help</h1>
-  <p>All files are in the list, except notes. To see the notes, click on a location.</p>
-  
+  <p>There are several ways to work with the interface:</p>
+  <ol>
+    <li>Import data to the server (either as JSON, or as an .xlsx spreadsheet, or both)</li>
+    <li>Export the data to JSON for use in the public web site.</li>
+  </ol>
+  <p>When new data, or updated data is available, either start a new iteration of the same process, or edit the database directly on the server using the Django admin interface.</p>
+    <ul>
+      <li>Use the Django admin interface to add, delete, and edit records in the database, or</li>
+      <li>Export to a format that is suitable for further editing, such another JSON file, or an .xlsx file for use in a spreadsheet.
+      </li>
+    </ul>
+
+  </ol>
+
+  <h1>Getting data from the database</h1>
+  <p>JSON Data exported from the database is available at
+  <a href="https://takebackday.infoloom.com/media/output.json">https://takebackday.infoloom.com/media/output.json</a></p>
+
+  <h1>Updating data</h1>
+  <h2>Workflow 1. Working with a spreadsheet</h2>
+  <ul>
+    <li>Empty the database.</li>
+    <li>Import data from spreadsheet.</li>
+    <li>Export to JSON</li>
+  </ul>
+  <p>Repeat this process when spreadsheet is updated.</p>
+  <p><i>Note.</i> No "upload" function is implemented yet. For now, just send the file as an email attachment to <a href="mailto:mb@infoloom.com">mb@infoloom.com</a>
+
+  <h2>Workflow 2. Working with diverse data</h2>
+  <ul>
+    <li>Empty the database.</li>
+    <li>Import data from spreadsheet, and various JSON files obtained from scraping.</li>
+    <li>Export to JSON</li>
+    <li>Export combined data to spreadsheet, for next iteration.</li>
+  </ul>
+  <p><i>Note</i>. Data structure should be consistent to use the predefined imports. If the data structure changes, new import functions must be created to accommodate new data.</p>
+
+  <h2>Workflow 3. Import once, use the admin to edit the database.</h2>
+  <p>Import multiple data sets. They will be incorporated into the database.</p>
+  <ul>
+    <li>Use the admin interface to edit the data in the database.</li>
+    <li>Export when needed to JSON.</li>
+  </ul>
+  <p>In this case, <b>do not delete</b> the database.</p>
+  <p><i>Note</i>. If this solution is adopted, we will remove the ability to delete the database (and should probably backup the database on the server regularly).</p>
+
+
 </body>
 </html>
