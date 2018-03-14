@@ -41,8 +41,8 @@ class Place(models.Model):
     )
     county = models.CharField(
         max_length=50,
-        blank=False,
-        null=False,
+        blank=True,
+        null=True,
     )
     phone = models.CharField(
         max_length=50,
