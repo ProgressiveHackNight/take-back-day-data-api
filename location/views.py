@@ -1,10 +1,17 @@
 import json
 import os
-from pyexcel_xlsx import get_data
+from collections import OrderedDict
+from pyexcel_xlsx import get_data, save_data
 from django.shortcuts import redirect
 from django.conf import settings
 from django.db.utils import IntegrityError
 from .models import Place
+
+
+def delete_database(request):
+    places = Place.objects.all()
+    places.delete()
+    return redirect('/admin/location/place/')
 
 
 def read_dec_data_json(request):
@@ -88,11 +95,20 @@ def read_spreadsheet(request):
                 'borough': item[4],
                 'county': item[5]
             }
-    # print('DEBUG datadict={}'.format(datadict))
+            Place.objects.create(
+                location_name=item[0],
+                street_address=item[1],
+                city=item[2],
+                zip=item[3],
+                borough=item[4],
+                county=item[5],
+
+            )
+    print('DEBUG datadict={}'.format(datadict))
 
     return redirect('/admin/location/place/')
 
-def export_places(request):
+def export_json(request):
 
     # dump JSON file in media directory and display in browser
 
@@ -119,3 +135,56 @@ def export_places(request):
         json.dump(places_as_dict, f, indent=2)
 
     return redirect('/media/output.json')
+
+
+def export_xlsx(request):
+
+    # dump database into spreadsheet
+
+    OUTFILE = os.path.join(settings.MEDIA_ROOT , 'output.xlsx')
+
+    data = OrderedDict()
+    places = Place.objects.all()
+    data_list = [
+        [
+            p.location_name,
+            p.street_address,
+            p.city,
+            p.zip,
+            p.borough,
+            p.county,
+            p.phone,
+            p.hours,
+            p.type,
+            p.latitude,
+            p.longitude,
+            p.hours,
+            p.note,
+            p.website
+        ]
+    for p in places]
+
+    data_list.insert(0, [
+        'LOCATION',
+        'STREET ADDRESS',
+        'CITY',
+        'ZIP',
+        'BOROUGH',
+        'COUNTY',
+        'PHONE',
+        'HOURS',
+        'TYPE',
+        'LATITUDE',
+        'LONGITUDE',
+        'HOURS',
+        'NOTE',
+        'WEBSITE'
+    ])
+
+    print(data_list)
+
+    data.update({'Sheet 1': data_list })
+
+    save_data(OUTFILE, data)
+
+    return redirect('/media/output.xlsx')

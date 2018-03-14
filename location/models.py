@@ -83,5 +83,5 @@ class Place(models.Model):
         return self.location_name
 
     class Meta:
-        ordering = ['city', 'zip']
+        ordering = ['county', 'zip']
         unique_together = ('location_name', 'street_address')

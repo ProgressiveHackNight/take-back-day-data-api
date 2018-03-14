@@ -6,8 +6,14 @@
 </head>
 <body>
   <h1>Take Back Day</h1>
-  <p class="adminlink"><a href="/admin/location/place">Admin</a></p>
-  <p><a href={% url 'read-dec-data' %}>Read JSON data</a></p>
-  <p><a href={% url 'export-places' %}>Export to JSON</a></p>
+  <p><a href={% url 'delete-database' %}>Delete Database</a></p>
+  <hr/>
+  <p><a href={% url 'read-dec-data' %}>Read DEC JSON data</a></p>
+  <p><a href={% url 'read-spreadsheet' %}>Read DA XSLX spreadsheet</a></p>
+  <hr/>
+  <p><a href="/admin/location/place">View Database</a></p>
+  <hr/>
+  <p><a href={% url 'export-json' %}>Export to JSON</a></p>
+  <p><a href={% url 'export-xlsx' %}>Export to XLSX</a></p>
 </body>
 </html>
