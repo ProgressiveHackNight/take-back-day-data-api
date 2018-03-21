@@ -55,12 +55,12 @@ class Place(models.Model):
         null=True,
     )
     latitude = models.CharField(
-        max_length=15,
+        max_length=25,
         blank=True,
         null=True,
     )
     longitude = models.CharField(
-        max_length=15,
+        max_length=25,
         blank=True,
         null=True,
     )
@@ -83,5 +83,5 @@ class Place(models.Model):
         return self.location_name
 
     class Meta:
-        ordering = ['county', 'zip']
+        ordering = ['city', 'zip', 'county']
         unique_together = ('location_name', 'street_address')

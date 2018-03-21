@@ -1,10 +1,11 @@
 import json
 import os
+import sys
 from collections import OrderedDict
 from pyexcel_xlsx import get_data, save_data
 from django.shortcuts import redirect
 from django.conf import settings
-from django.db.utils import IntegrityError
+from django.db.utils import IntegrityError, DataError
 from .models import Place
 
 
@@ -72,6 +73,9 @@ def read_dec_data_json(request):
         except IntegrityError:
             # It's already there.
             pass
+        except DataError:
+            print('DATA ERROR for item=', item)
+            sys.exit()
 
     return redirect('/admin/location/place/')
 
